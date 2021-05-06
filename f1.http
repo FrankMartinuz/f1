@@ -1,0 +1,5 @@
+GET https://ergast.com/api/f1/2020/1.json HTTP/1.1
+
+GET https://ergast.com/api/f1/current/last/ HTTP/1.1
+
+GET https://ergast.com/api/f1/current/last/results.json HTTP/1.1
