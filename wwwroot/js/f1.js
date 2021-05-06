@@ -1,6 +1,6 @@
 //  --IMPORT
 
-import { getWebApi } from "./modules/global_function.js";
+import { getWebApi } from "./../modules/global_function.js";
 
 //  --VARIABLES
 
