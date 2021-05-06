@@ -29,4 +29,5 @@ function getResults(data) {
 
 //  --MAIN
 
+// TOGGLE COMMENT FOR TRY GET LAST GRID ORDER
 // getWebApi("/api/f1/current/last/results", {}, next, null);
